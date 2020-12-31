@@ -5,6 +5,6 @@
 #### 2. Online:- Copy the practice_code folder into your google drive. You will be able you to open these files in Google colaboratory.
 
 ## Books to Follow:
-#### 1. Python 3 Object Oriented Programming: Harness the power of Python 3 objects by Dusty Phillips, Packt Publication.
-#### 2. Think Python: How to Think Like a Computer Scientist by Allen Downey, Green Tea Press.
-
+#### 1. Python 3 Object Oriented Programming: Harness the power of Python 3 objects, Dusty Phillips, Packt Publication.
+#### 2. Think Python: How to Think Like a Computer Scientist, Allen Downey, Green Tea Press.
+#### 3. Let Us Python, Yashavant Kanetkar.
